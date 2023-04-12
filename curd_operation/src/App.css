@@ -1,0 +1,58 @@
+/* nav{
+    background-color: brown;
+    font-size: 20px;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+} */
+
+.btn-success{
+  background: linear-gradient(45deg,red,yellow);
+}
+.btn-danger{
+  background: linear-gradient(45deg,red,green);
+}
+.btn-primary{
+  background: linear-gradient(45deg,purple,pink);
+}
+.btn-warning{
+  background: linear-gradient(45deg,lightgreen,blue);
+}
+
+.bg-primary{
+  background: linear-gradient(45deg,violet,red);
+}
+table tbody tr td{
+  font-weight: bold;
+}
+.bg-success{
+  background: linear-gradient(45deg,black,purple);
+
+}
+
+.bg-warning{
+  background: linear-gradient(45deg,red,blue);
+
+}
+.bg-danger{
+  background: linear-gradient(45deg,black,gray);
+
+}
+
+.bg-secondary{
+  background: linear-gradient(45deg,black,purple);
+
+}
+
+ul li {
+  text-decoration: none;
+  display: inline-block; 
+  margin: 10px;
+  font-size: 25px;
+  text-align: center;
+  color: aqua;
+}
+
+

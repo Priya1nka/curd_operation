@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "priyanka",
+      "address": "pune",
+      "email": "priyankagadekar39@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "shubhangi landge",
+      "address": "Pune",
+      "email": "s@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "vaishnavi gadekar",
+      "address": "sakur",
+      "email": "Vaishanavigadekar2002@gmail.com",
+      "id": 4
+    }
+  ]
+}
